@@ -5,7 +5,7 @@ using UnityEngine;
 public class Observer : MonoBehaviour
 {
     public Transform player;
-    bool m_IsPlayerInRange
+    bool m_IsPlayerInRange;
 
     // Start is called before the first frame update
     void Start()
